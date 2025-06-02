@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 My feature file in git course
+=======
+My feature file
+>>>>>>> Stashed changes
